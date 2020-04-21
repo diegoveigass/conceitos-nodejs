@@ -14,6 +14,14 @@ ou
 npm
 ```
 
+## Testes
+
+Para executar os testes utilize [yarn](https://yarnpkg.com/)
+
+```bash
+yarn test
+```
+
 ## Principais bibliotecas e frameworks utilizados
 
 - Express
